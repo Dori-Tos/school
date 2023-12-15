@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="school.Views.StudentsPage"
+             Title="StudentsPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0"
+        VerticalOptions="Center">
+
+            <Label
+            Text="StudentsList"
+            SemanticProperties.HeadingLevel="Level1"
+            FontSize="24"
+            HorizontalOptions="Center" />
+
+            <Button
+            x:Name="AddEvalButton"
+            Text="Add an Evaluation"
+            Clicked="OnAddEvalButtonClicked"
+            HorizontalOptions="Center" />
+
+            <Button
+            x:Name="BulletinButton"
+            Text="Bulletin"
+            Clicked="OnBulletinButtonClicked"
+            HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+    
+</ContentPage>

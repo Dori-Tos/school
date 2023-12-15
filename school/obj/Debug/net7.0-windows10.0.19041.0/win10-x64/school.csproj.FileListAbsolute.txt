@@ -649,3 +649,4 @@ C:\Users\ecam\Documents\Project_C#\school\school\obj\Debug\net7.0-windows10.0.19
 C:\Users\ecam\Documents\Project_C#\school\school\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\ecam\Documents\Project_C#\school\school\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ecam\Documents\Project_C#\school\school\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Private\Folders\Ecam\3BE\Programmation orientée objet\Projet\school\school\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
