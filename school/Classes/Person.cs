@@ -4,12 +4,17 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using school.Services;
 
 namespace school.Classes
-{
+{ 
+
+    
     public class Person
     {
 
+        public DataManager dataManager;
         public string firstname;
         public string lastname;
         public Person(string firstname, string lastname)
@@ -22,17 +27,18 @@ namespace school.Classes
         {
             return String.Format("{0} {1}", firstname, lastname);
         }
-
     }
 
     public class Teacher : Person
     {
         public int salary;
+        
 
         public Teacher(string firstname, string lastname, int salary) :
             base(firstname, lastname)
         {
             this.salary = salary;
+            dataManager.AddTeacher(this);
         }
 
     }
@@ -79,3 +85,5 @@ namespace school.Classes
     }
 
 }
+
+

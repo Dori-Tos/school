@@ -1,1 +1,1 @@
-C:\Private\Folders\Ecam\3BE\Programmation orientée objet\Projet\school\school\school.csproj;x64
+C:\Users\ecam\Documents\Project_C#\school\school\school.csproj;x64

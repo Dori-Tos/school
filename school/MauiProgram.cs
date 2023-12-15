@@ -1,7 +1,10 @@
 ﻿using Microsoft.Extensions.Logging;
+using Newtonsoft.Json;
+using school.Classes;
 
 namespace school
 {
+
     public static class MauiProgram
     {
         public static MauiApp CreateMauiApp()
