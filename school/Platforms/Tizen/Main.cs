@@ -13,10 +13,7 @@ namespace school
         {
             var app = new Program();
             app.Run(args);
-            Console.WriteLine("app run");
-            File.WriteAllText("C:\Users\ecam\Downloads\saveTeacher.json", "test d'écriture en json");
-            Console.WriteLine("file written");
-            Teacher Lur = new Teacher("Quentin", "Lurkin", 5000);
-        }
+
+
     }
 }
