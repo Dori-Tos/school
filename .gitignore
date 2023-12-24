@@ -1,2 +1,3 @@
 *.vsidx
-*.xml
+.vs/
+obj/
