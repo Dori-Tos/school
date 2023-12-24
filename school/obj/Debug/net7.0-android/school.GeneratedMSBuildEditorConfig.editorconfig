@@ -12,36 +12,102 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = school
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\ecam\source\repos\school\school\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
 [C:/Users/ecam/source/repos/school/school/App.xaml]
+=======
+build_property.ProjectDir = C:\Private\Folders\Ecam\3BE\Programmation orientée objet\Projet\school\school\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/App.xaml]
+>>>>>>> d2f0d22866d980acc84dd24d825bd9d2ae0959b5
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = school.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
+<<<<<<< HEAD
 [C:/Users/ecam/source/repos/school/school/AppShell.xaml]
+=======
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/AppShell.xaml]
+>>>>>>> d2f0d22866d980acc84dd24d825bd9d2ae0959b5
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = school.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+<<<<<<< HEAD
 [C:/Users/ecam/source/repos/school/school/MainPage.xaml]
+=======
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/MainPage.xaml]
+>>>>>>> d2f0d22866d980acc84dd24d825bd9d2ae0959b5
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = school.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+<<<<<<< HEAD
 [C:/Users/ecam/source/repos/school/school/Resources/Styles/Colors.xaml]
+=======
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/Resources/Styles/Colors.xaml]
+>>>>>>> d2f0d22866d980acc84dd24d825bd9d2ae0959b5
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = school.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
+<<<<<<< HEAD
 [C:/Users/ecam/source/repos/school/school/Resources/Styles/Styles.xaml]
+=======
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/Resources/Styles/Styles.xaml]
+>>>>>>> d2f0d22866d980acc84dd24d825bd9d2ae0959b5
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = school.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/Views/ActivitesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = school.Views.ActivitesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ActivitesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ActivitesPage.xaml
+
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/Views/AddEvalPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = school.Views.AddEvalPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddEvalPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddEvalPage.xaml
+
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/Views/BulletinPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = school.Views.BulletinPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BulletinPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BulletinPage.xaml
+
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/Views/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = school.Views.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePage.xaml
+
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/Views/StudentsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = school.Views.StudentsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentsPage.xaml
+
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/Views/TeachersPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = school.Views.TeachersPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TeachersPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TeachersPage.xaml
+
+[C:/Private/Folders/Ecam/3BE/Programmation orientée objet/Projet/school/school/Views/TombolaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = school.Views.TombolaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TombolaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TombolaPage.xaml

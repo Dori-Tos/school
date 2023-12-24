@@ -649,6 +649,7 @@ C:\Users\ecam\Documents\Project_C#\school\school\obj\Debug\net7.0-windows10.0.19
 C:\Users\ecam\Documents\Project_C#\school\school\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\ecam\Documents\Project_C#\school\school\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ecam\Documents\Project_C#\school\school\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+<<<<<<< HEAD
 C:\Users\ecam\source\repos\school\school\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\school.exe
 C:\Users\ecam\source\repos\school\school\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\Users\ecam\source\repos\school\school\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\school.deps.json
@@ -975,3 +976,6 @@ C:\Users\ecam\source\repos\school\school\obj\Debug\net7.0-windows10.0.19041.0\wi
 C:\Users\ecam\source\repos\school\school\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
 C:\Users\ecam\source\repos\school\school\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
 C:\Users\ecam\source\repos\school\school\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+=======
+C:\Private\Folders\Ecam\3BE\Programmation orientée objet\Projet\school\school\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+>>>>>>> d2f0d22866d980acc84dd24d825bd9d2ae0959b5

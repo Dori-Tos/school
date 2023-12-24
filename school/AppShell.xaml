@@ -4,11 +4,46 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:school"
-    Shell.FlyoutBehavior="Disabled">
+    xmlns:views="clr-namespace:school.Views"
+    Shell.FlyoutBehavior="Flyout">
+
+    <TabBar>
+        
+        <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate views:HomePage}"
+        Route="HomePage" />
+
+        <ShellContent
+        Title="Activities"
+        ContentTemplate="{DataTemplate views:ActivitesPage}"
+        Route="ActivitiesPage" />
+        
+        <ShellContent
+        Title="Teachers"
+        ContentTemplate="{DataTemplate views:TeachersPage}"
+        Route="TeachersPage" />
+        
+        <ShellContent
+        Title="Students"
+        ContentTemplate="{DataTemplate views:StudentsPage}"
+        Route="StudentsPage" />
+
+    </TabBar>
 
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    Title="Tombola"
+    ContentTemplate="{DataTemplate views:TombolaPage}"
+    Route="TombolaPage" />
+
+    <ShellContent
+    Title="Add an Evaluation"
+    ContentTemplate="{DataTemplate views:AddEvalPage}"
+    Route="AddEvalPage" />
+
+    <ShellContent
+    Title="Bulletin"
+    ContentTemplate="{DataTemplate views:BulletinPage}"
+    Route="BulletinPage" />
 
 </Shell>
